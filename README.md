@@ -1,2 +1,2 @@
-# Proyecto--Estcuela
+# Proyecto-Escuela
 un pequeño proyecto que cree mientras estudiaba
